@@ -17,34 +17,36 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Frameworks
 
+
 ### Feudal Learning
-* [A Nonparametric Delayed Feedback Model for Conversion Rate Prediction](https://arxiv.org/pdf/1802.00255.pdf) by Yuya Yoshikawa and Yusaku Imai. ArXiv 2018.
+* [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) by Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu. ICML 2017.
 
 
 ### Options Framework
-* [Deep Landscape Forecasting for Real-time Bidding Advertising](https://arxiv.org/abs/1905.03028) by Kan Ren, et al. KDD 2019.
+* [The Option-Critic Architecture](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14858/14328) by Pierre-Luc Bacon, Jean Harb, Doina Precup. AAAI 2017.
 
 
-### Value Function Decomposition
-* [Optimal Bidding Strategy for Brand Advertising](https://www.ijcai.org/proceedings/2018/0059.pdf) by Takanori Maehara et al. IJCAI 2018.
+### Value Function
+* [Learning Multi-level Hierarchies with Hindsight](https://openreview.net/pdf?id=ryzECoAcY7) by Andrew Levy, Andrew Levy, Robert Platt, Kate Saenko. ICLR 2019.
+* [Universal Value Function Approximators](http://proceedings.mlr.press/v37/schaul15.pdf) by Tom Schaul, Dan Horgan, Karol Gregor, David Silver. ICML 2015.
 
 
 ### Meta-Learning
-* [Exploring Optimal Frequency Caps in Real Time Bidding Advertising](https://www.researchgate.net/publication/309588181_Exploring_Optimal_Frequency_Caps_in_Real_Time_Bidding_Advertising) by Rui Qin et al. SocialCom 2016.
+* [Meta Learning shared hierarchies](https://arxiv.org/pdf/1710.09767.pdf) by Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR, 2018.
 
 
 ### Representaion Learning
-* [Independent Auditing of Online Display Advertising Campaigns](http://www.it.uc3m.es/~rcuevas/papers/p120-callejo.pdf) by 	Patricia Callejo et al. HotNets 2016.
+* [Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://openreview.net/pdf?id=H1emus0qF7) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. ICLR 2019.
 
 
 ## Application Papers
-* [A Sub-linear, Massive-scale Look-alike Audience Extension System](http://proceedings.mlr.press/v53/ma16.html)
-  by Qiang Ma, Musen Wen, Zhen Xia, Datong Chen. KDD 2016 / PMLR 2016
+* [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567) by Martin Riedmiller, Roland Hafner, Thomas Lampe, Michael Neunert, Jonas Degrave, Tom Van de Wiele, Volodymyr Mnih, Nicolas Heess, Tobias Springenberg. ICML 2018.
+
 
 
 ## Open Source
 ### Released code
-* [YOYI RTB datasets (with bidding information)](http://apex.sjtu.edu.cn/datasets/7) by Kan Ren and Yifei Rong et al. CIKM 2016.
+* [Feudal Learning]()
 
 ### Open Environment
 
