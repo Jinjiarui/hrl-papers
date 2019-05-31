@@ -40,7 +40,8 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ## Application Papers
-* [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567) by Martin Riedmiller, Roland Hafner, Thomas Lampe, Michael Neunert, Jonas Degrave, Tom Van de Wiele, Volodymyr Mnih, Nicolas Heess, Tobias Springenberg. ICML 2018.
+* <Robot> [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567) by Martin Riedmiller, Roland Hafner, Thomas Lampe, Michael Neunert, Jonas Degrave, Tom Van de Wiele, Volodymyr Mnih, Nicolas Heess, Tobias Springenberg. ICML 2018.
+* <Multi-task> [Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning](https://openreview.net/pdf?id=SJJQVZW0b) by Tianmin Shu, Caiming Xiong, Richard Socher. ICLR 2018.
 
 
 
