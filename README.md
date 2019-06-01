@@ -16,14 +16,17 @@ The sharing principle of these references here is for research. If any authors d
 ## Research Papers
 
 ### Frameworks
-* [Entropy-based] [Maximum Entropy-Regularized Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1905.08786.pdf) by Rui Zhao, Xudong Sun, Volker Tresp. ICML 2019.
-* [Federated Control] [Federated Control with Hierarchical Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1712.08266.pdf) by Saurabh Kumar, Pararth Shah, Dilek Hakkani-Tür, Larry Heck. NIPS Workshop 2017. 
+* [Federated Control] [Federated Control with Hierarchical Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1712.08266.pdf) by Saurabh Kumar, Pararth Shah, Dilek Hakkani-Tür, Larry Heck. NeurIPS Workshop 2017.
+* [Periodic Policies] [Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies](https://openreview.net/pdf?id=SJz1x20cFQ) by Kenneth Marino, Abhinav Gupta, Rob Fergus, Arthur Szlam. ICLR 2019.
 
 ### Feudal Learning
+* [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. NeurIPS 2018.
 * [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) by Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu. ICML 2017.
 
 
 ### Options Framework
+* [Combining intrinsic motivation and hierarchical reinforcement learning](https://drive.google.com/file/d/1zjc6q0i2J4JoJ8fnVnQslPRoiiQku3Gl/view) by
+Maria K. Eckstein, Anne GE Collins. NeurIPS Workshop, 2017
 * [The Option-Critic Architecture](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14858/14328) by Pierre-Luc Bacon, Jean Harb, Doina Precup. AAAI 2017.
 
 
@@ -42,7 +45,11 @@ Multi-Goal Reinforcement Learning](http://proceedings.mlr.press/v97/colas19a/col
 * [Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning
 with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-Reyes, YuXuan Liu, Abhishek Gupta, Benjamin Eysenbach, Pieter Abbeel, Sergey Levine. ICML 2018.
 * [Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://openreview.net/pdf?id=H1emus0qF7) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. ICLR 2019.
+* [Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization](https://openreview.net/pdf?id=Hyl_vjC5KQ) by Takayuki Osa, Voot Tangkaratt, Masashi Sugiyama. ICLR 2019.
 
+## Entropy-based
+* [Maximum Entropy-Regularized Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1905.08786.pdf) by Rui Zhao, Xudong Sun, Volker Tresp. ICML 2019.
+* [Latent Space Policies for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1804.02808.pdf) by Tuomas Haarnoja, Kristian Hartikainen, Pieter Abbee, Sergey Levine. ICML 2018.
 
 ## Application Papers
 * [Robot] [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567) by Martin Riedmiller, Roland Hafner, Thomas Lampe, Michael Neunert, Jonas Degrave, Tom Van de Wiele, Volodymyr Mnih, Nicolas Heess, Tobias Springenberg. ICML 2018.
