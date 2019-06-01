@@ -15,12 +15,9 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Research Papers
 
-### Frameworks
-* [Meta-Learning] [Meta Learning shared hierarchies](https://arxiv.org/pdf/1710.09767.pdf) by Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR, 2018.
-* [Federated Control] [Federated Control with Hierarchical Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1712.08266.pdf) by Saurabh Kumar, Pararth Shah, Dilek Hakkani-Tür, Larry Heck. NeurIPS Workshop 2017.
-* [Periodic Policies] [Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies](https://openreview.net/pdf?id=SJz1x20cFQ) by Kenneth Marino, Abhinav Gupta, Rob Fergus, Arthur Szlam. ICLR 2019.
-
 ### Feudal Learning
+* [Meta Learning Shared Hierarchies](https://arxiv.org/pdf/1710.09767.pdf) by Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR, 2018.
+[Federated Control with Hierarchical Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1712.08266.pdf) by Saurabh Kumar, Pararth Shah, Dilek Hakkani-Tür, Larry Heck. NeurIPS Workshop 2017.
 * [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. NeurIPS 2018.
 * [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) by Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu. ICML 2017.
 
@@ -37,6 +34,7 @@ Karan Goel, Emma Brunskill. NeurIPS Workshop 2017.
 * [Universal Option Models](http://papers.nips.cc/paper/5590-universal-option-models) by Hengshuai Yao, Csaba Szepesvari, Rich Sutton, Joseph Modayil. NeurIPS 2014.
 * [Landmark Options Via Reflection (LOVR) in Multi-task Lifelong Reinforcement Learning](https://drive.google.com/file/d/1o-18oSWhxJ73kOXQkfgR2tBvkOD8DJrq/view) by
  Nicholas Denis, Maia Fraser. NeurIPS Workshop 2017.
+* [Learning with Options that Terminate Off-Policy](https://drive.google.com/file/d/16kUKs4LMAc1QsueV0HXQAAKIcVlItvob/view) by Anna Harutyunyan, Peter Vrancx, Pierre-Luc Bacon, Doina Precup, Ann Nowe. NeurIPS Workshop 2017.
 
 
 ### Value Function
@@ -47,7 +45,7 @@ Multi-Goal Reinforcement Learning](http://proceedings.mlr.press/v97/colas19a/col
 * [A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy](https://drive.google.com/file/d/1tV1Lw1fIsQTihSzSvBT206XX2_6UjiRB/view) by
 Shangtong Zhang, Richard Sutton. NeurIPS Workshop 2017.
 * [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://papers.nips.cc/paper/6233-hierarchical-deep-reinforcement-learning-integrating-temporal-abstraction-and-intrinsic-motivation.pdf) by Tejas D. Kullkarni, Karthik R. Narasimhan, Ardavan Saeedi and Joshua B. Tenenbaum. NeurIPS 2016.
-* [Hierarchical reinforcement learning with the maxq value function decomposition](https://www.jair.org/index.php/jair/article/view/10266) by Thomas G Dietterich. Journal of Artificial Intelligence Research 2000.
+* [Hierarchical Reinforcement Learning with the Maxq Value Function Decomposition](https://www.jair.org/index.php/jair/article/view/10266) by Thomas G Dietterich. Journal of Artificial Intelligence Research 2000.
 
 
 
@@ -60,7 +58,7 @@ with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-
 ## Entropy-based
 * [Maximum Entropy-Regularized Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1905.08786.pdf) by Rui Zhao, Xudong Sun, Volker Tresp. ICML 2019.
 * [Latent Space Policies for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1804.02808.pdf) by Tuomas Haarnoja, Kristian Hartikainen, Pieter Abbee, Sergey Levine. ICML 2018.
-
+[Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies](https://openreview.net/pdf?id=SJz1x20cFQ) by Kenneth Marino, Abhinav Gupta, Rob Fergus, Arthur Szlam. ICLR 2019.
 
 ## Application Papers
 * [Robot] [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567) by Martin Riedmiller, Roland Hafner, Thomas Lampe, Michael Neunert, Jonas Degrave, Tom Van de Wiele, Volodymyr Mnih, Nicolas Heess, Tobias Springenberg. ICML 2018.
@@ -69,6 +67,7 @@ with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-
 * [Ride-hailing] [CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms](https://arxiv.org/pdf/1905.11353.pdf) by Jiarui Jin, Ming Zhou, Weinan Zhang, Minne Li, Zilong Guo, Zhiwei Qin, Yan Jiao, Xiaocheng Tang, Chenxi Wang, Jun Wang, Guobin Wu, Jieping Ye. arXiv 2019.
 * [Subtask] [Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies](https://arxiv.org/pdf/1807.07665.pdf) by Sungryull Sohn, Junhyuk Oh, Honglak Lee. NeurIPS 2018.
 * [Recommender System] [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) by Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI 2019.
+* [Text Generation] [Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf) by Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang. AAAI 2018.
 
 <!---
 * [](http://wnzhang.net/share/rtb-papers/). by .
