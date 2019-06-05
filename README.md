@@ -16,8 +16,10 @@ The sharing principle of these references here is for research. If any authors d
 ## Research Papers
 
 ### Feudal Learning
-* [Meta Learning Shared Hierarchies](https://arxiv.org/pdf/1710.09767.pdf) by Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR, 2018.
+* [Directed-Info GAIL:Learning Hierarchical Policies from Unsegmented Demonstrationsusing Directed Information](https://arxiv.org/pdf/1810.01266.pdf) by Arjun Sharma, Mohit Sharma, Nicholas Rhinehart, Kris M. Kitani. ICLR, 2019.
 * [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. NeurIPS, 2018.
+* [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/pdf/1803.00590.pdf) by Hoang M. Le, Nan Jiang, Alekh Agarwal, Miroslav Dudík, Yisong Yue, Hal Daumé III. ICML, 2018.
+* [Meta Learning Shared Hierarchies](https://arxiv.org/pdf/1710.09767.pdf) by Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR, 2018.
 * [Federated Control with Hierarchical Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1712.08266.pdf) by Saurabh Kumar, Pararth Shah, Dilek Hakkani-Tür, Larry Heck. NeurIPS Workshop, 2017.
 * [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) by Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu. ICML, 2017.
 
