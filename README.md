@@ -17,6 +17,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Feudal Learning
 * [Directed-Info GAIL:Learning Hierarchical Policies from Unsegmented Demonstrationsusing Directed Information](https://arxiv.org/pdf/1810.01266.pdf) by Arjun Sharma, Mohit Sharma, Nicholas Rhinehart, Kris M. Kitani. ICLR, 2019.
+* [Mind-Aware Multi-Agent Management Reinforcement Learning](https://arxiv.org/pdf/1810.00147.pdf) by Tianmin Shu, Yuandong Tian. ICLR Workshop, 2019.
 * [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. NeurIPS, 2018.
 * [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/pdf/1803.00590.pdf) by Hoang M. Le, Nan Jiang, Alekh Agarwal, Miroslav Dudík, Yisong Yue, Hal Daumé III. ICML, 2018.
 * [Meta Learning Shared Hierarchies](https://arxiv.org/pdf/1710.09767.pdf) by Kevin Frans, Jonathan Ho, Xi Chen, Pieter Abbeel, John Schulman. ICLR, 2018.
@@ -41,8 +42,7 @@ Karan Goel, Emma Brunskill. NeurIPS Workshop, 2017.
 
 ### Value Function
 * [Deep Multi-Agent Reinforcement Learning with Discrete-Continuous Hybrid Action Spaces](https://arxiv.org/pdf/1903.04959.pdf) by Haotian Fu, Hongyao Tang, Jianye Hao, Zihan Lei, Yingfeng Chen, Changjie Fan. IJCAI, 2019.
-* [CURIOUS: Intrinsically Motivated Modular
-Multi-Goal Reinforcement Learning](http://proceedings.mlr.press/v97/colas19a/colas19a.pdf) by Cedric Colas, Pierre Fournier, Olivier Sigaud, Mohamed Chetouani, Pierre-Yves Oudeyer. ICML, 2019.
+* [CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning](http://proceedings.mlr.press/v97/colas19a/colas19a.pdf) by Cedric Colas, Pierre Fournier, Olivier Sigaud, Mohamed Chetouani, Pierre-Yves Oudeyer. ICML, 2019.
 * [Learning Multi-level Hierarchies with Hindsight](https://openreview.net/pdf?id=ryzECoAcY7) by Andrew Levy, Andrew Levy, Robert Platt, Kate Saenko. ICLR, 2019.
 * [A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy](https://drive.google.com/file/d/1tV1Lw1fIsQTihSzSvBT206XX2_6UjiRB/view) by
 Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
@@ -70,6 +70,7 @@ with Multiplicative Compositional Policies](https://xbpeng.github.io/projects/MC
 * [Recommender System] [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) by Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI, 2019.
 * [Communication] [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/pdf/1901.08492.pdf) by Sanjeevan Ahilan, Peter Dayan. arXiv, 2019.
 * [Ride-hailing] [CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms](https://arxiv.org/pdf/1905.11353.pdf) by Jiarui Jin, Ming Zhou, Weinan Zhang, Minne Li, Zilong Guo, Zhiwei Qin, Yan Jiao, Xiaocheng Tang, Chenxi Wang, Jun Wang, Guobin Wu, Jieping Ye. arXiv, 2019.
+* [Text Generation] [Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation](https://arxiv.org/pdf/1805.08191.pdf) by Qiuyuan Huang, Zhe Gan, Asli Celikyilmaz, Dapeng Wu, Jianfeng Wang, Xiaodong He. AAAI, 2019.
 * [Robot] [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567) by Martin Riedmiller, Roland Hafner, Thomas Lampe, Michael Neunert, Jonas Degrave, Tom Van de Wiele, Volodymyr Mnih, Nicolas Heess, Tobias Springenberg. ICML, 2018.
 * [Multi-task] [Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning](https://openreview.net/pdf?id=SJJQVZW0b) by Tianmin Shu, Caiming Xiong, Richard Socher. ICLR, 2018.
 * [Subtask] [Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies](https://arxiv.org/pdf/1807.07665.pdf) by Sungryull Sohn, Junhyuk Oh, Honglak Lee. NeurIPS, 2018.
