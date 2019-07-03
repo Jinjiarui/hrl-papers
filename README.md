@@ -16,6 +16,8 @@ The sharing principle of these references here is for research. If any authors d
 ## Research Papers
 
 ### Feudal Learning
+* [Learning Hierarchical Teaching in Cooperative
+Multiagent Reinforcement Learning](https://arxiv.org/pdf/1903.03216.pdf) by Dong-Ki Kim, Miao Liu, Shayegan Omidshafiei, Sebastian Lopez-Cot, Matthew Riemer, Golnaz Habibi, Gerald Tesauro, Sami Mourad, Murray Campbell, Jonathan P. How. arXiv, 2019.
 * [Directed-Info GAIL:Learning Hierarchical Policies from Unsegmented Demonstrationsusing Directed Information](https://arxiv.org/pdf/1810.01266.pdf) by Arjun Sharma, Mohit Sharma, Nicholas Rhinehart, Kris M. Kitani. ICLR, 2019.
 * [Mind-Aware Multi-Agent Management Reinforcement Learning](https://arxiv.org/pdf/1810.00147.pdf) by Tianmin Shu, Yuandong Tian. ICLR Workshop, 2019.
 * [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. NeurIPS, 2018.
@@ -68,6 +70,7 @@ with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-
 * [Multi-task] [MCP: Learning Composable Hierarchical Control
 with Multiplicative Compositional Policies](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf) by Xue Bin Peng, Michael Chang, Grace Zhang, Pieter Abbeel, Sergey Levine. arXiv, 2019.
 * [Recommender System] [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) by Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI, 2019.
+* [Multi-agent] [Hierarchical Deep Multiagent Reinforcement Learning](https://arxiv.org/pdf/1809.09332.pdf) by Hongyao Tang, Jianye Hao, Tangjie Lv, Yingfeng Chen, Zongzhang Zhang, Hangtian Jia, Chunxu Ren, Yan Zheng, Changjie Fan, Li Wang. AAAI 2019.
 * [Communication] [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/pdf/1901.08492.pdf) by Sanjeevan Ahilan, Peter Dayan. arXiv, 2019.
 * [Ride-hailing] [CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms](https://arxiv.org/pdf/1905.11353.pdf) by Jiarui Jin, Ming Zhou, Weinan Zhang, Minne Li, Zilong Guo, Zhiwei Qin, Yan Jiao, Xiaocheng Tang, Chenxi Wang, Jun Wang, Guobin Wu, Jieping Ye. arXiv, 2019.
 * [Text Generation] [Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation](https://arxiv.org/pdf/1805.08191.pdf) by Qiuyuan Huang, Zhe Gan, Asli Celikyilmaz, Dapeng Wu, Jianfeng Wang, Xiaodong He. AAAI, 2019.
