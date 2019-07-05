@@ -59,6 +59,8 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 * [Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization](https://openreview.net/pdf?id=Hyl_vjC5KQ) by Takayuki Osa, Voot Tangkaratt, Masashi Sugiyama. ICLR, 2019.
 * [Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning
 with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-Reyes, YuXuan Liu, Abhishek Gupta, Benjamin Eysenbach, Pieter Abbeel, Sergey Levine. ICML, 2018.
+* [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1704.03012.pdf) by Carlos Florensa, Yan Duan, Pieter Abbeel. ICLR, 2017.
+
 
 ## Entropy-based
 * [Maximum Entropy-Regularized Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1905.08786.pdf) by Rui Zhao, Xudong Sun, Volker Tresp. ICML, 2019.
