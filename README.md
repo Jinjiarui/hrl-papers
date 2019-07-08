@@ -28,6 +28,7 @@ Multiagent Reinforcement Learning](https://arxiv.org/pdf/1903.03216.pdf) by Dong
 
 
 ### Options Framework
+* [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/pdf/1907.01657.pdf) by Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman. arXiv. 2019.
 * [The Option-Critic Architecture](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14858/14328) by Pierre-Luc Bacon, Jean Harb, Doina Precup. AAAI, 2017.
 * [Combining intrinsic motivation and hierarchical reinforcement learning](https://drive.google.com/file/d/1zjc6q0i2J4JoJ8fnVnQslPRoiiQku3Gl/view) by
 Maria K. Eckstein, Anne GE Collins. NeurIPS Workshop, 2017.
