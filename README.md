@@ -16,9 +16,8 @@ The sharing principle of these references here is for research. If any authors d
 ## Research Papers
 
 ### Feudal Learning
-* [Learning Hierarchical Teaching in Cooperative
-Multiagent Reinforcement Learning](https://arxiv.org/pdf/1903.03216.pdf) by Dong-Ki Kim, Miao Liu, Shayegan Omidshafiei, Sebastian Lopez-Cot, Matthew Riemer, Golnaz Habibi, Gerald Tesauro, Sami Mourad, Murray Campbell, Jonathan P. How. arXiv, 2019.
-* [Directed-Info GAIL:Learning Hierarchical Policies from Unsegmented Demonstrationsusing Directed Information](https://arxiv.org/pdf/1810.01266.pdf) by Arjun Sharma, Mohit Sharma, Nicholas Rhinehart, Kris M. Kitani. ICLR, 2019.
+* [Learning Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/pdf/1903.03216.pdf) by Dong-Ki Kim, Miao Liu, Shayegan Omidshafiei, Sebastian Lopez-Cot, Matthew Riemer, Golnaz Habibi, Gerald Tesauro, Sami Mourad, Murray Campbell, Jonathan P. How. arXiv, 2019.
+* [Directed-Info GAIL: Learning Hierarchical Policies from Unsegmented Demonstrations using Directed Information](https://arxiv.org/pdf/1810.01266.pdf) by Arjun Sharma, Mohit Sharma, Nicholas Rhinehart, Kris M. Kitani. ICLR, 2019.
 * [Mind-Aware Multi-Agent Management Reinforcement Learning](https://arxiv.org/pdf/1810.00147.pdf) by Tianmin Shu, Yuandong Tian. ICLR Workshop, 2019.
 * [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. NeurIPS, 2018.
 * [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/pdf/1803.00590.pdf) by Hoang M. Le, Nan Jiang, Alekh Agarwal, Miroslav Dudík, Yisong Yue, Hal Daumé III. ICML, 2018.
@@ -47,6 +46,7 @@ Karan Goel, Emma Brunskill. NeurIPS Workshop, 2017.
 * [Deep Multi-Agent Reinforcement Learning with Discrete-Continuous Hybrid Action Spaces](https://arxiv.org/pdf/1903.04959.pdf) by Haotian Fu, Hongyao Tang, Jianye Hao, Zihan Lei, Yingfeng Chen, Changjie Fan. IJCAI, 2019.
 * [CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning](http://proceedings.mlr.press/v97/colas19a/colas19a.pdf) by Cedric Colas, Pierre Fournier, Olivier Sigaud, Mohamed Chetouani, Pierre-Yves Oudeyer. ICML, 2019.
 * [Learning Multi-level Hierarchies with Hindsight](https://openreview.net/pdf?id=ryzECoAcY7) by Andrew Levy, Andrew Levy, Robert Platt, Kate Saenko. ICLR, 2019.
+* [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/pdf/1803.00590.pdf) by Hoang M. Le, Nan Jiang, Alekh Agarwal, Miroslav Dud´ık, Yisong Yue, Hal Daume III. ICML, 2018.
 * [A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy](https://drive.google.com/file/d/1tV1Lw1fIsQTihSzSvBT206XX2_6UjiRB/view) by
 Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 * [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://papers.nips.cc/paper/6233-hierarchical-deep-reinforcement-learning-integrating-temporal-abstraction-and-intrinsic-motivation.pdf) by Tejas D. Kullkarni, Karthik R. Narasimhan, Ardavan Saeedi and Joshua B. Tenenbaum. NeurIPS, 2016.
@@ -58,8 +58,7 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 ### Representaion Learning
 * [Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://openreview.net/pdf?id=H1emus0qF7) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. ICLR, 2019.
 * [Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization](https://openreview.net/pdf?id=Hyl_vjC5KQ) by Takayuki Osa, Voot Tangkaratt, Masashi Sugiyama. ICLR, 2019.
-* [Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning
-with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-Reyes, YuXuan Liu, Abhishek Gupta, Benjamin Eysenbach, Pieter Abbeel, Sergey Levine. ICML, 2018.
+* [Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-Reyes, YuXuan Liu, Abhishek Gupta, Benjamin Eysenbach, Pieter Abbeel, Sergey Levine. ICML, 2018.
 * [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1704.03012.pdf) by Carlos Florensa, Yan Duan, Pieter Abbeel. ICLR, 2017.
 
 
@@ -70,8 +69,7 @@ with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-
 
 
 ## Application Papers
-* [Multi-task] [MCP: Learning Composable Hierarchical Control
-with Multiplicative Compositional Policies](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf) by Xue Bin Peng, Michael Chang, Grace Zhang, Pieter Abbeel, Sergey Levine. arXiv, 2019.
+* [Multi-task] [MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf) by Xue Bin Peng, Michael Chang, Grace Zhang, Pieter Abbeel, Sergey Levine. arXiv, 2019.
 * [Recommender System] [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) by Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI, 2019.
 * [Multi-agent] [Hierarchical Deep Multiagent Reinforcement Learning](https://arxiv.org/pdf/1809.09332.pdf) by Hongyao Tang, Jianye Hao, Tangjie Lv, Yingfeng Chen, Zongzhang Zhang, Hangtian Jia, Chunxu Ren, Yan Zheng, Changjie Fan, Li Wang. AAAI 2019.
 * [Communication] [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/pdf/1901.08492.pdf) by Sanjeevan Ahilan, Peter Dayan. arXiv, 2019.
