@@ -70,7 +70,9 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 
 ## Application Papers
 * [Multi-task] [MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf) by Xue Bin Peng, Michael Chang, Grace Zhang, Pieter Abbeel, Sergey Levine. arXiv, 2019.
-* [Recommender System] [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) by Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI, 2019.
+* [E-commerce] [Aggregating E-commerce Search Results from Heterogeneous Sources via Hierarchical Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/WWW19TakanobuR.pdf) by Ryuichi Takanobu, Tao Zhuang, Minlie Huang, Jun Feng, Haihong Tang, Bo Zheng. WWW, 2019.
+* [Recommender-System] [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) by Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI, 2019.
+* [Relation-Extraction] [A Hierarchical Framework for Relation Extraction with Reinforcement Learning](https://arxiv.org/pdf/1811.03925.pdf) by Ryuichi Takanobu, Tianyang Zhang, Jiexi Liu, Minlie Huang. AAAI, 2019.
 * [Multi-agent] [Hierarchical Deep Multiagent Reinforcement Learning](https://arxiv.org/pdf/1809.09332.pdf) by Hongyao Tang, Jianye Hao, Tangjie Lv, Yingfeng Chen, Zongzhang Zhang, Hangtian Jia, Chunxu Ren, Yan Zheng, Changjie Fan, Li Wang. AAAI 2019.
 * [Communication] [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/pdf/1901.08492.pdf) by Sanjeevan Ahilan, Peter Dayan. arXiv, 2019.
 * [Ride-hailing] [CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms](https://arxiv.org/pdf/1905.11353.pdf) by Jiarui Jin, Ming Zhou, Weinan Zhang, Minne Li, Zilong Guo, Zhiwei Qin, Yan Jiao, Xiaocheng Tang, Chenxi Wang, Jun Wang, Guobin Wu, Jieping Ye. arXiv, 2019.
