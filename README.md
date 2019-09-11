@@ -28,6 +28,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Options Framework
 * [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/pdf/1907.01657.pdf) by Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman. arXiv. 2019.
+* [Successor Options: An Option Discovery Framework for Reinforcement Learning](https://www.ijcai.org/proceedings/2019/0458.pdf) by Rahul Ramesh, Manan Tomar, Balaraman Ravindran. IJCAI, 2019.
 * [The Option-Critic Architecture](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14858/14328) by Pierre-Luc Bacon, Jean Harb, Doina Precup. AAAI, 2017.
 * [Combining intrinsic motivation and hierarchical reinforcement learning](https://drive.google.com/file/d/1zjc6q0i2J4JoJ8fnVnQslPRoiiQku3Gl/view) by
 Maria K. Eckstein, Anne GE Collins. NeurIPS Workshop, 2017.
@@ -56,6 +57,8 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 
 
 ### Representaion Learning
+* [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/pdf/1906.00744.pdf) by Hengyuan Hu, Denis Yarats, Qucheng Gong, Yuandong Tian, Mike Lewis. NeurIPS, 2019.
+* [Language as an Abstraction for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1906.07343.pdf) by Yiding Jiang, Shixiang Gu, Kevin Murphy, Chelsea Finn. NeurIPS, 2019.
 * [Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://openreview.net/pdf?id=H1emus0qF7) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. ICLR, 2019.
 * [Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization](https://openreview.net/pdf?id=Hyl_vjC5KQ) by Takayuki Osa, Voot Tangkaratt, Masashi Sugiyama. ICLR, 2019.
 * [Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-Reyes, YuXuan Liu, Abhishek Gupta, Benjamin Eysenbach, Pieter Abbeel, Sergey Levine. ICML, 2018.
@@ -67,11 +70,15 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 * [Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies](https://openreview.net/pdf?id=SJz1x20cFQ) by Kenneth Marino, Abhinav Gupta, Rob Fergus, Arthur Szlam. ICLR, 2019.
 * [Latent Space Policies for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1804.02808.pdf) by Tuomas Haarnoja, Kristian Hartikainen, Pieter Abbee, Sergey Levine. ICML, 2018.
 
+## Exploration
+* [Exploring Hierarchy-Aware Inverse Reinforcement Learning](https://arxiv.org/pdf/1807.05037.pdf) by Chris Cundy, Daniel Filan. ICML Workshop, 2018.
+
 
 ## Application Papers
+* [Environment-aware] [Playing FPS Games With Environment-Aware Hierarchical Reinforcement Learning](https://www.ijcai.org/proceedings/2019/0482.pdf) by Shihong Song, Jiayi Weng, Hang Su, Dong Yan, Haosheng Zou, Jun Zhu. IJCAI, 2019.
 * [Multi-task] [MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf) by Xue Bin Peng, Michael Chang, Grace Zhang, Pieter Abbeel, Sergey Levine. arXiv, 2019.
 * [E-commerce] [Aggregating E-commerce Search Results from Heterogeneous Sources via Hierarchical Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/WWW19TakanobuR.pdf) by Ryuichi Takanobu, Tao Zhuang, Minlie Huang, Jun Feng, Haihong Tang, Bo Zheng. WWW, 2019.
-* [Recommender-System] [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) by Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI, 2019.
+* [Recommender-system] [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) by Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI, 2019.
 * [Relation-Extraction] [A Hierarchical Framework for Relation Extraction with Reinforcement Learning](https://arxiv.org/pdf/1811.03925.pdf) by Ryuichi Takanobu, Tianyang Zhang, Jiexi Liu, Minlie Huang. AAAI, 2019.
 * [Multi-agent] [Hierarchical Deep Multiagent Reinforcement Learning](https://arxiv.org/pdf/1809.09332.pdf) by Hongyao Tang, Jianye Hao, Tangjie Lv, Yingfeng Chen, Zongzhang Zhang, Hangtian Jia, Chunxu Ren, Yan Zheng, Changjie Fan, Li Wang. AAAI 2019.
 * [Communication] [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/pdf/1901.08492.pdf) by Sanjeevan Ahilan, Peter Dayan. arXiv, 2019.
@@ -80,4 +87,4 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 * [Robot] [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567) by Martin Riedmiller, Roland Hafner, Thomas Lampe, Michael Neunert, Jonas Degrave, Tom Van de Wiele, Volodymyr Mnih, Nicolas Heess, Tobias Springenberg. ICML, 2018.
 * [Multi-task] [Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning](https://openreview.net/pdf?id=SJJQVZW0b) by Tianmin Shu, Caiming Xiong, Richard Socher. ICLR, 2018.
 * [Subtask] [Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies](https://arxiv.org/pdf/1807.07665.pdf) by Sungryull Sohn, Junhyuk Oh, Honglak Lee. NeurIPS, 2018.
-* [Text Generation] [Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf) by Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang. AAAI, 2018.
+* [Text-Generation] [Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf) by Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang. AAAI, 2018.
