@@ -59,6 +59,7 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 ### Representaion Learning
 * [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/pdf/1906.00744.pdf) by Hengyuan Hu, Denis Yarats, Qucheng Gong, Yuandong Tian, Mike Lewis. NeurIPS, 2019.
 * [Language as an Abstraction for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1906.07343.pdf) by Yiding Jiang, Shixiang Gu, Kevin Murphy, Chelsea Finn. NeurIPS, 2019.
+* [Hierarchical Policy Learning is Sensitive to Goal Space Design](https://arxiv.org/pdf/1905.01537.pdf) by Zach Dwiel, Madhavun Candadai, Mariano Phielipp, Arjun K. Bansal. ICLR Workshop, 2019.
 * [Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://openreview.net/pdf?id=H1emus0qF7) by Ofir Nachum, Shixiang Gu, Honglak Lee, Sergey Levine. ICLR, 2019.
 * [Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization](https://openreview.net/pdf?id=Hyl_vjC5KQ) by Takayuki Osa, Voot Tangkaratt, Masashi Sugiyama. ICLR, 2019.
 * [Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-Reyes, YuXuan Liu, Abhishek Gupta, Benjamin Eysenbach, Pieter Abbeel, Sergey Levine. ICML, 2018.
