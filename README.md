@@ -48,6 +48,7 @@ Karan Goel, Emma Brunskill. NeurIPS Workshop, 2017.
 * [CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning](http://proceedings.mlr.press/v97/colas19a/colas19a.pdf) by Cedric Colas, Pierre Fournier, Olivier Sigaud, Mohamed Chetouani, Pierre-Yves Oudeyer. ICML, 2019.
 * [Learning Multi-level Hierarchies with Hindsight](https://openreview.net/pdf?id=ryzECoAcY7) by Andrew Levy, Andrew Levy, Robert Platt, Kate Saenko. ICLR, 2019.
 * [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/pdf/1803.00590.pdf) by Hoang M. Le, Nan Jiang, Alekh Agarwal, Miroslav Dud´ık, Yisong Yue, Hal Daume III. ICML, 2018.
+* [Hindsight Experience Replay](https://papers.nips.cc/paper/7090-hindsight-experience-replay.pdf) by Marcin Andrychowicz, Filip Wolski, Alex Ray, Jonas Schneider, Rachel Fong, Peter Welinder, Bob McGrew, Josh Tobin, Pieter Abbeel, Wojciech Zaremba. NeurIPS, 2017.
 * [A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy](https://drive.google.com/file/d/1tV1Lw1fIsQTihSzSvBT206XX2_6UjiRB/view) by
 Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 * [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://papers.nips.cc/paper/6233-hierarchical-deep-reinforcement-learning-integrating-temporal-abstraction-and-intrinsic-motivation.pdf) by Tejas D. Kullkarni, Karthik R. Narasimhan, Ardavan Saeedi and Joshua B. Tenenbaum. NeurIPS, 2016.
@@ -72,6 +73,7 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 * [Latent Space Policies for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1804.02808.pdf) by Tuomas Haarnoja, Kristian Hartikainen, Pieter Abbee, Sergey Levine. ICML, 2018.
 
 ## Exploration
+* [Exploration via Hindsight Goal Generation](https://arxiv.org/pdf/1906.04279.pdf) by Zhizhou Ren, Kefan Dong, Yuan Zhou, Qiang Liu, Jian Peng. NeurIPS, 2019.
 * [Exploring Hierarchy-Aware Inverse Reinforcement Learning](https://arxiv.org/pdf/1807.05037.pdf) by Chris Cundy, Daniel Filan. ICML Workshop, 2018.
 
 
