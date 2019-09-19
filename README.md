@@ -78,16 +78,19 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 
 
 ## Application Papers
+
 * [Environment-aware] [Playing FPS Games With Environment-Aware Hierarchical Reinforcement Learning](https://www.ijcai.org/proceedings/2019/0482.pdf) by Shihong Song, Jiayi Weng, Hang Su, Dong Yan, Haosheng Zou, Jun Zhu. IJCAI, 2019.
 * [Multi-task] [MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf) by Xue Bin Peng, Michael Chang, Grace Zhang, Pieter Abbeel, Sergey Levine. arXiv, 2019.
 * [E-commerce] [Aggregating E-commerce Search Results from Heterogeneous Sources via Hierarchical Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/WWW19TakanobuR.pdf) by Ryuichi Takanobu, Tao Zhuang, Minlie Huang, Jun Feng, Haihong Tang, Bo Zheng. WWW, 2019.
 * [Recommender-system] [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) by Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI, 2019.
-* [Relation-Extraction] [A Hierarchical Framework for Relation Extraction with Reinforcement Learning](https://arxiv.org/pdf/1811.03925.pdf) by Ryuichi Takanobu, Tianyang Zhang, Jiexi Liu, Minlie Huang. AAAI, 2019.
+* [Relation-extraction] [A Hierarchical Framework for Relation Extraction with Reinforcement Learning](https://arxiv.org/pdf/1811.03925.pdf) by Ryuichi Takanobu, Tianyang Zhang, Jiexi Liu, Minlie Huang. AAAI, 2019.
 * [Multi-agent] [Hierarchical Deep Multiagent Reinforcement Learning](https://arxiv.org/pdf/1809.09332.pdf) by Hongyao Tang, Jianye Hao, Tangjie Lv, Yingfeng Chen, Zongzhang Zhang, Hangtian Jia, Chunxu Ren, Yan Zheng, Changjie Fan, Li Wang. AAAI 2019.
 * [Communication] [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/pdf/1901.08492.pdf) by Sanjeevan Ahilan, Peter Dayan. arXiv, 2019.
 * [Ride-hailing] [CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms](https://arxiv.org/pdf/1905.11353.pdf) by Jiarui Jin, Ming Zhou, Weinan Zhang, Minne Li, Zilong Guo, Zhiwei Qin, Yan Jiao, Xiaocheng Tang, Chenxi Wang, Jun Wang, Guobin Wu, Jieping Ye. arXiv, 2019.
 * [Text Generation] [Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation](https://arxiv.org/pdf/1805.08191.pdf) by Qiuyuan Huang, Zhe Gan, Asli Celikyilmaz, Dapeng Wu, Jianfeng Wang, Xiaodong He. AAAI, 2019.
+* [Multi-task] [Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning](https://arxiv.org/pdf/1712.07294.pdf) by Tianmin Shu, Caiming Xiong, Richard Socher. ICLR, 2018.
+* [Robot] [Neural Modular Control for Embodied Question Answering](https://arxiv.org/pdf/1810.11181.pdf) by Abhishek Das, Georgia Gkioxari, Stefan Lee1 Devi Parikh, Dhruv Batra. CoRL, 2018.
 * [Robot] [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://arxiv.org/abs/1802.10567) by Martin Riedmiller, Roland Hafner, Thomas Lampe, Michael Neunert, Jonas Degrave, Tom Van de Wiele, Volodymyr Mnih, Nicolas Heess, Tobias Springenberg. ICML, 2018.
 * [Multi-task] [Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning](https://openreview.net/pdf?id=SJJQVZW0b) by Tianmin Shu, Caiming Xiong, Richard Socher. ICLR, 2018.
 * [Subtask] [Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies](https://arxiv.org/pdf/1807.07665.pdf) by Sungryull Sohn, Junhyuk Oh, Honglak Lee. NeurIPS, 2018.
-* [Text-Generation] [Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf) by Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang. AAAI, 2018.
+* [Text-generation] [Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf) by Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang. AAAI, 2018.
