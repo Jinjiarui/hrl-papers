@@ -78,6 +78,7 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 
 
 ## Application Papers
+* [Adaptation] [Sub-policy Adaptation for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1906.05862v1.pdf) by Alexander C. Li, Carlos Florensa, Ignasi Clavera, Pieter Abbeel. arXiv, 2019.
 * [Fairness] [Learning Fairness in Multi-Agent Systems](https://z0ngqing.github.io/paper/nips-jiechuan19.pdf) by Jiechuan Jiang, Zongqing Lu. NeurIPS, 2019.
 * [Environment-aware] [Playing FPS Games With Environment-Aware Hierarchical Reinforcement Learning](https://www.ijcai.org/proceedings/2019/0482.pdf) by Shihong Song, Jiayi Weng, Hang Su, Dong Yan, Haosheng Zou, Jun Zhu. IJCAI, 2019.
 * [Multi-task] [MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf) by Xue Bin Peng, Michael Chang, Grace Zhang, Pieter Abbeel, Sergey Levine. arXiv, 2019.
