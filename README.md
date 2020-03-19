@@ -4,18 +4,22 @@ This is a collection of research and review papers of hierarchicial reinforcemen
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Jiarui Jin](http://Jinjiarui.github.io/) (Email: jinjiarui97 [AT] gmail.com).
 
-
-
 ## Review Papers
 
-* [Temporal abstraction in reinforcement learning](https://dl.acm.org/citation.cfm?id=932003) by Doina Precup, 	Richard S. Sutton, University of Massachusetts Amherst, 2000.
+* [A Survey on Intrinsic Motivation in Reinforcement Learning](https://arxiv.org/pdf/1908.06976.pdf) by Arthur Aubret, Laetitia Matignon, Salima Hassas. arXiv, 2019.
+* [Temporal abstraction in reinforcement learning](https://dl.acm.org/citation.cfm?id=932003) by Doina Precup, Richard S. Sutton, University of Massachusetts Amherst, 2000.
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) by Richard S. Sutton, Doina Precup, Satinder Singh, Artificial Intelligence, 1999.
 * [Recent Advances in Hierarchical Reinforcement Learning](https://people.cs.umass.edu/~mahadeva/papers/hrl.pdf) by Andrew G. Barto, Sridhar Mahadevan, Discrete Event Dynamic Systems: Theory and Applications, 1999.
 
-
 ## Research Papers
 
+### Goal-Oriented RL
+
+* [Planning with Goal-Conditioned Policies](https://arxiv.org/pdf/1911.08453.pdf) by Soroush Nasiriany, Vitchyr H. Pong, Steven Lin, Sergey Levine. NeurIPS, 2019.
+* [Search on the Replay Buffer: Bridging Planning and Reinforcement Learning](https://arxiv.org/pdf/1906.05253.pdf) by Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine. arXiv, 2019.
+
 ### Feudal Learning
+
 * [Learning Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/pdf/1903.03216.pdf) by Dong-Ki Kim, Miao Liu, Shayegan Omidshafiei, Sebastian Lopez-Cot, Matthew Riemer, Golnaz Habibi, Gerald Tesauro, Sami Mourad, Murray Campbell, Jonathan P. How. arXiv, 2019.
 * [Directed-Info GAIL: Learning Hierarchical Policies from Unsegmented Demonstrations using Directed Information](https://arxiv.org/pdf/1810.01266.pdf) by Arjun Sharma, Mohit Sharma, Nicholas Rhinehart, Kris M. Kitani. ICLR, 2019.
 * [Mind-Aware Multi-Agent Management Reinforcement Learning](https://arxiv.org/pdf/1810.00147.pdf) by Tianmin Shu, Yuandong Tian. ICLR Workshop, 2019.
@@ -25,8 +29,8 @@ The sharing principle of these references here is for research. If any authors d
 * [Federated Control with Hierarchical Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1712.08266.pdf) by Saurabh Kumar, Pararth Shah, Dilek Hakkani-Tür, Larry Heck. NeurIPS Workshop, 2017.
 * [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) by Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu. ICML, 2017.
 
-
 ### Options Framework
+
 * [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/pdf/1907.01657.pdf) by Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman. arXiv. 2019.
 * [Successor Options: An Option Discovery Framework for Reinforcement Learning](https://www.ijcai.org/proceedings/2019/0458.pdf) by Rahul Ramesh, Manan Tomar, Balaraman Ravindran. IJCAI, 2019.
 * [The Option-Critic Architecture](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14858/14328) by Pierre-Luc Bacon, Jean Harb, Doina Precup. AAAI, 2017.
@@ -42,8 +46,8 @@ Karan Goel, Emma Brunskill. NeurIPS Workshop, 2017.
 * [Learning with Options that Terminate Off-Policy](https://drive.google.com/file/d/16kUKs4LMAc1QsueV0HXQAAKIcVlItvob/view) by Anna Harutyunyan, Peter Vrancx, Pierre-Luc Bacon, Doina Precup, Ann Nowe. NeurIPS Workshop, 2017.
 * [Universal Option Models](http://papers.nips.cc/paper/5590-universal-option-models) by Hengshuai Yao, Csaba Szepesvari, Rich Sutton, Joseph Modayil. NeurIPS, 2014.
 
-
 ### Value Function
+
 * [Deep Multi-Agent Reinforcement Learning with Discrete-Continuous Hybrid Action Spaces](https://arxiv.org/pdf/1903.04959.pdf) by Haotian Fu, Hongyao Tang, Jianye Hao, Zihan Lei, Yingfeng Chen, Changjie Fan. IJCAI, 2019.
 * [CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning](http://proceedings.mlr.press/v97/colas19a/colas19a.pdf) by Cedric Colas, Pierre Fournier, Olivier Sigaud, Mohamed Chetouani, Pierre-Yves Oudeyer. ICML, 2019.
 * [Learning Multi-level Hierarchies with Hindsight](https://openreview.net/pdf?id=ryzECoAcY7) by Andrew Levy, Andrew Levy, Robert Platt, Kate Saenko. ICLR, 2019.
@@ -55,9 +59,8 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 * [Universal Value Function Approximators](http://proceedings.mlr.press/v37/schaul15.pdf) by Tom Schaul, Dan Horgan, Karol Gregor, David Silver. ICML, 2015.
 * [Hierarchical Reinforcement Learning with the Maxq Value Function Decomposition](https://www.jair.org/index.php/jair/article/view/10266) by Thomas G Dietterich. Journal of Artificial Intelligence Research, 2000.
 
-
-
 ### Representaion Learning
+
 * [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/pdf/1906.00744.pdf) by Hengyuan Hu, Denis Yarats, Qucheng Gong, Yuandong Tian, Mike Lewis. NeurIPS, 2019.
 * [Language as an Abstraction for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1906.07343.pdf) by Yiding Jiang, Shixiang Gu, Kevin Murphy, Chelsea Finn. NeurIPS, 2019.
 * [Hierarchical Policy Learning is Sensitive to Goal Space Design](https://arxiv.org/pdf/1905.01537.pdf) by Zach Dwiel, Madhavun Candadai, Mariano Phielipp, Arjun K. Bansal. ICLR Workshop, 2019.
@@ -66,18 +69,20 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 * [Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings](https://arxiv.org/pdf/1806.02813.pdf) by John D. Co-Reyes, YuXuan Liu, Abhishek Gupta, Benjamin Eysenbach, Pieter Abbeel, Sergey Levine. ICML, 2018.
 * [Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1704.03012.pdf) by Carlos Florensa, Yan Duan, Pieter Abbeel. ICLR, 2017.
 
+## Entropy-Based Methods
 
-## Entropy-based
 * [Maximum Entropy-Regularized Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1905.08786.pdf) by Rui Zhao, Xudong Sun, Volker Tresp. ICML, 2019.
 * [Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies](https://openreview.net/pdf?id=SJz1x20cFQ) by Kenneth Marino, Abhinav Gupta, Rob Fergus, Arthur Szlam. ICLR, 2019.
 * [Latent Space Policies for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1804.02808.pdf) by Tuomas Haarnoja, Kristian Hartikainen, Pieter Abbee, Sergey Levine. ICML, 2018.
 
 ## Exploration
+
+* [Why Does Hierarchy (Sometimes) Work So Well in Reinforcement Learning ?](https://arxiv.org/abs/1909.10618) by Ofir Nachum, Haoran Tang, Xingyu Lu, Shixiang Gu, Honglak Lee, Sergey Levine. NeurIPS Workshop, 2019.
 * [Exploration via Hindsight Goal Generation](https://arxiv.org/pdf/1906.04279.pdf) by Zhizhou Ren, Kefan Dong, Yuan Zhou, Qiang Liu, Jian Peng. NeurIPS, 2019.
 * [Exploring Hierarchy-Aware Inverse Reinforcement Learning](https://arxiv.org/pdf/1807.05037.pdf) by Chris Cundy, Daniel Filan. ICML Workshop, 2018.
 
-
 ## Application Papers
+
 * [Adaptation] [Sub-policy Adaptation for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1906.05862v1.pdf) by Alexander C. Li, Carlos Florensa, Ignasi Clavera, Pieter Abbeel. arXiv, 2019.
 * [Fairness] [Learning Fairness in Multi-Agent Systems](https://z0ngqing.github.io/paper/nips-jiechuan19.pdf) by Jiechuan Jiang, Zongqing Lu. NeurIPS, 2019.
 * [Environment-aware] [Playing FPS Games With Environment-Aware Hierarchical Reinforcement Learning](https://www.ijcai.org/proceedings/2019/0482.pdf) by Shihong Song, Jiayi Weng, Hang Su, Dong Yan, Haosheng Zou, Jun Zhu. IJCAI, 2019.
