@@ -84,9 +84,10 @@ Shangtong Zhang, Richard Sutton. NeurIPS Workshop, 2017.
 
 ## Application Papers
 
+* [Multi-task] [Gradient Surgery for Multi-Task Learning](https://arxiv.org/pdf/2001.06782.pdf) by Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Sergey Levine, Karol Hausman, Chelsea Finn. arXiv, 2020.
 * [Multi-agent] [CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188.pdf) by Jiachen Yang, Alireza Nakhaei, David Isele, Kikuo Fujimura, Hongyuan Zha. ICLR 2020.
 * [Robot] [Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation](https://arxiv.org/pdf/1909.05829.pdf) by Suraj Nair, Chelsea Finn. ICLR, 2020.
-* [Adaptation] [Sub-policy Adaptation for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1906.05862v1.pdf) by Alexander C. Li, Carlos Florensa, Ignasi Clavera, Pieter Abbeel. arXiv, 2019.
+* [Adaptation] [Sub-policy Adaptation for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1906.05862v1.pdf) by Alexander C. Li, Carlos Florensa, Ignasi Clavera, Pieter Abbeel. ICLR, 2020.
 * [Fairness] [Learning Fairness in Multi-Agent Systems](https://z0ngqing.github.io/paper/nips-jiechuan19.pdf) by Jiechuan Jiang, Zongqing Lu. NeurIPS, 2019.
 * [Environment-aware] [Playing FPS Games With Environment-Aware Hierarchical Reinforcement Learning](https://www.ijcai.org/proceedings/2019/0482.pdf) by Shihong Song, Jiayi Weng, Hang Su, Dong Yan, Haosheng Zou, Jun Zhu. IJCAI, 2019.
 * [Multi-task] [MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf) by Xue Bin Peng, Michael Chang, Grace Zhang, Pieter Abbeel, Sergey Levine. arXiv, 2019.
